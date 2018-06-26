@@ -1,4 +1,3 @@
-$heroku buildpacks:set heroku/php
 <?php 
 
 $method = $_SERVER['REQUEST_METHOD']
